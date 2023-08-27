@@ -1,0 +1,14 @@
+var nombre="Gonzalo";
+var apellido="Grottini";
+console.log("Nombre: "+nombre);
+console.log("Apellido: "+apellido);
+console.log("Nombre: "+nombre, "Apellido: " +apellido);
+var num1=10;
+var num2=20;
+var num3=15;
+var suma=0;
+var suma2=0;
+suma=num1+num2;
+console.log("la suma de numero 1 y 2 es: "+suma);
+suma2=suma+num3;
+console.log("la suma del resultado anterior mas numero 3 es de: "+suma2);
